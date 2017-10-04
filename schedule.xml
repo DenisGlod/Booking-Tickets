@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><schedule>
+    <film name="Железный человек">
+        <date value="01.04.2017 12:00 - 14:00">
+            <seat number="1" status="true"/>
+            <seat number="2" status="false"/>
+            <seat number="3" status="false"/>
+            <seat number="4" status="true"/>
+            <seat number="5" status="true"/>
+            <seat number="6" status="true"/>
+            <seat number="7" status="true"/>
+            <seat number="8" status="true"/>
+            <seat number="9" status="true"/>
+            <seat number="10" status="true"/>
+        </date>
+        <date value="02.04.2017 12:00 - 14:00">
+            <seat number="1" status="true"/>
+            <seat number="2" status="true"/>
+            <seat number="3" status="true"/>
+            <seat number="4" status="true"/>
+            <seat number="5" status="true"/>
+            <seat number="6" status="true"/>
+            <seat number="7" status="true"/>
+            <seat number="8" status="true"/>
+            <seat number="9" status="true"/>
+            <seat number="10" status="true"/>
+        </date>
+    </film>
+    <film name="Мстители">
+        <date value="01.04.2017 09:00 - 11:00">
+            <seat number="1" status="true"/>
+            <seat number="2" status="true"/>
+            <seat number="3" status="true"/>
+            <seat number="4" status="true"/>
+            <seat number="5" status="true"/>
+            <seat number="6" status="true"/>
+            <seat number="7" status="true"/>
+            <seat number="8" status="true"/>
+            <seat number="9" status="true"/>
+            <seat number="10" status="true"/>
+        </date>
+        <date value="02.04.2017 14:30 - 16:30">
+            <seat number="1" status="true"/>
+            <seat number="2" status="true"/>
+            <seat number="3" status="true"/>
+            <seat number="4" status="true"/>
+            <seat number="5" status="true"/>
+            <seat number="6" status="true"/>
+            <seat number="7" status="true"/>
+            <seat number="8" status="true"/>
+            <seat number="9" status="true"/>
+            <seat number="10" status="true"/>
+        </date>
+    </film>
+</schedule>
